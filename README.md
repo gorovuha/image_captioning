@@ -6,3 +6,5 @@ The data an trained models can be found on hugging face hub: https://huggingface
 
 **data_preprocess.ipynb** -- cross-modal-3600 preprocessing. An example how to push your own dataset to the hugging face hub. 
 **seq2seq.ipynb** -- vit plus rugpt3 image captioning model. 
+**rnn.ipynb** -- designing and training rnn model for image-captioning.
+**try_rnn.ipynb** -- testing pretrained rnn from checkpoints.
